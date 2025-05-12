@@ -1,4 +1,4 @@
 # demo
-first git reository
+first git repository
 <br>
-auther - himanshi 
+author - himanshi 
